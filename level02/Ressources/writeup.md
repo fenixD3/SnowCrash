@@ -27,7 +27,7 @@ The password does not fit, so dots replace invisible characters, let's see log i
 ![img.png](img/TSPStreamHexDump.png)
 
 We see the symbol 7f, which means pressing the DEL key
-Also the character 0d, meaning '\ r' (carriage ret)
+Also the character 0d, meaning '\r' (carriage ret)
 
 So from `ft_wandr...NDRel.L0L.` we can get `ft_waNDReL0L`
 
