@@ -1,4 +1,8 @@
-After logging we get message, we have a e-mail in `/var/mail/level05`.
+After logging we get message, we have an e-mail.
+
+![](./img/new_mail.png)
+
+Standard way for e-mails is `/var/mail/level05`.
 
 ![](./img/cat_mail.png)
 
