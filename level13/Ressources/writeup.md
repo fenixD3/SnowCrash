@@ -1,4 +1,4 @@
-We find in our home executable file level13 with uid flag13. Try execute it.
+We find in our home executable file level13 with uid flag13. Try to execute it.
 
 ![](./img/level13.png)
 
@@ -9,7 +9,7 @@ Let's run `gdb` to look disassembly code.
 
 ![](./img/disass_main.png)
 
-It do comparing after calling `getuid`. Let's put a breakpoint there.
+It does compare after calling `getuid`. Let's put a breakpoint there.
 
 ![](./img/breakpoint.png)
 

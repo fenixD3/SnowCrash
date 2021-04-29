@@ -2,7 +2,7 @@ We find in our home an executable file level09 with uid flag09 and a readable `t
 
 ![](./img/cat_token.png)
 
-This string look like a something hashed. Try execute `ltrace` with level09
+This string look like a something hashed. Try to execute `ltrace` with level09
 
 ![](./img/ltrace.png)
 
